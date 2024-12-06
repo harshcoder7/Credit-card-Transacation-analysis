@@ -11,7 +11,6 @@ To develop a comprehensive credit card weekly dashboard that provides real-time 
 ![image](https://github.com/user-attachments/assets/d0cef07b-6820-4bdb-9e9a-1c7f6abac446)
 
 **Description:**
-***
 The dataset contains 10,108 records with 18 columns, primarily related to credit card transactions and customer profiles. Here's a summary of key insights, correlating the data with the provided Power BI dashboard:
 ***
 
