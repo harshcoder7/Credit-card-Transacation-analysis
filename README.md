@@ -15,7 +15,7 @@ The dataset contains 10,108 records with 18 columns, primarily related to credit
 ***
 
 **Key Attributes from the Dataset:**
-***
+
 Card Categories: The dataset includes various card categories like Blue, Silver, Gold, and Platinum, aligning with the dashboard's "Card Category Performance" analysis.
 
 Revenue and Interest: Data for Total_Trans_Amt, Interest_Earned, and Credit_Limit can be linked to total revenue, interest earned, and transaction amount breakdowns by card categories.
@@ -30,7 +30,7 @@ Transaction Method: The Use Chip field records whether the customer used Chip, S
 ***
 
 **Analysis from Dataset:**
-***
+
 Revenue Trends by Card Category: Use Card_Category and Total_Trans_Amt to visualize which card types generate the most revenue. The Blue card appears to have higher volumes.
 
 Quarterly Performance: Track total transactions and revenue by quarter using Qtr, Total_Trans_Amt, and Total_Trans_Vol to identify peak performance periods, as shown in the Power BI dashboard.
